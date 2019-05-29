@@ -17,13 +17,9 @@ Windows向けのUnityデスクトップマスコットで影を付ける方法�
 
 ## LICENSE
 
-本レポジトリの所有者はpublic domain扱いでレポジトリを公開します。
-
-本レポジトリが参照する下記2件の著作権は参照元に従います。
+本レポジトリの所有者の著作権は放棄しますが、参照元である下記2件の著作権は参照元に従います。
 
 * [Unity+Windows APIで非矩形ウィンドウ](https://qiita.com/kirurobo/items/013cee3fa47a5332e186)
 * [ShadowDrawer](https://github.com/keijiro/ShadowDrawer)
 
-ただし、上記2件は実際にはpublic domain(CC0)を宣言しています。
-
-したがい、利用者がこれらのライセンスを確認したうえで、レポジトリ全体をpublic domainとして使用できます。
+少なくとも、前者記事の参照元である`TransparentWindow.cs`がMITライセンスであることを確認してください。
